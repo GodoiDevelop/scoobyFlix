@@ -1,0 +1,1 @@
+Plataforma de streaming parodiando cães e gatos com filmes famosos de cinema. Os tutores destes animais serão os responsáveis por acionar um botão para que seja transmitido o filme escolhido chamando a atenção e interação destes pets.
